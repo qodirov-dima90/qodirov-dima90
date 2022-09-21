@@ -129,7 +129,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="linkedin.com/in/qodirov-webdev" target="_blank">
+<a href="https://www.linkedin.com/feed/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/qodirov_dima" target="_blank">
