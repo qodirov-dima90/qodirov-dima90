@@ -4,7 +4,7 @@
 ## :sassy_man:  About me
 - :school: I am studying web programming at Astrum IT Academy
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :computer: I like to compete in all fields.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Lxh_2zYh2jTmZ9qZ-twe_FFynv4KhC-j/view?usp=sharing).
 - :nerd_face: Always `learning new things`
